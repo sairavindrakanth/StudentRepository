@@ -12,5 +12,6 @@ public class Student1 {
 		System.out.println("perminent address : Nandyal");
 		System.out.println("student age is : 24");
 		System.out.println("student working exeperience : 2 years");
+		System.out.println("salary of the student : 50000");
 	}
 }
