@@ -5,4 +5,8 @@ public class Student1 {
 	{
 		System.out.println("new java student is : SAI");
 	}
+	public void studentCourse()
+	{
+		System.out.println("interested course is : Java");
+	}
 }
