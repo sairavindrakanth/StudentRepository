@@ -9,5 +9,6 @@ public class Student1 {
 	{
 		System.out.println("interested course is : Java");
 		System.out.println("Student Address is : Banglore");
+		System.out.println("perminent address : Nandyal");
 	}
 }
