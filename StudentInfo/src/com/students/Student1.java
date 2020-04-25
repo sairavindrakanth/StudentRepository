@@ -8,5 +8,6 @@ public class Student1 {
 	public void studentCourse()
 	{
 		System.out.println("interested course is : Java");
+		System.out.println("student sddress is : chennai");
 	}
 }
